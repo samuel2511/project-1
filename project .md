@@ -4,8 +4,8 @@ Software Development Life Cycle (SDLC) is a process used by the software industr
 
 ## result i got while doing project 1
 
-![](./apache%202.png)
-![](mysql%20server.png)
-![](php.png)
-![](bbb.png)
-![](Screenshot%202022-11-04%20161944.png)
+![connect to EC2 instance](./image/apache%202.png)
+![](./image/mysql%20server.png)
+![](./image/php.png)
+![](./image/bbb.png)
+![](./image/Screenshot%202022-11-04%20161944.png)
